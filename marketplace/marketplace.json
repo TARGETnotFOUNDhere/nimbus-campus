@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-plugin-marketplace.json",
+  "name": "nimbus-labs-marketplace",
+  "description": "Official community and institutional plugin registry for Nimbus Labs campus intelligence tools.",
+  "plugins": [
+    {
+      "name": "campus-helpdesk",
+      "version": "1.0.0",
+      "description": "Comprehensive student assistance toolchain providing academic timetables, fee reconciliation, and hostel guideline resources.",
+      "author": {
+        "name": "Nimbus Labs",
+        "email": "support@nimbuslabs.edu"
+      },
+      "source": {
+        "type": "directory",
+        "path": "plugins/campus-helpdesk"
+      },
+      "category": "Education & Productivity",
+      "tags": ["helpdesk", "timetable", "fees", "hostel", "mcp", "nimbus"]
+    }
+  ]
+}

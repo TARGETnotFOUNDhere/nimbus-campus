@@ -1,0 +1,21 @@
+batch,day,slot,start_time,end_time,course_code,course_name,instructor,room,class_type
+CSE-A,Monday,Slot-1,09:00,10:00,CS301,Data Structures & Algorithms,Dr. Robert Fox,LH-101,Lecture
+CSE-A,Monday,Slot-2,10:00,11:00,CS302,Operating Systems,Prof. Elena Davis,LH-101,Lecture
+CSE-A,Monday,Slot-3,11:15,12:15,CS303,Database Management Systems,Dr. Aisha Khan,LH-101,Lecture
+CSE-A,Tuesday,Slot-1,09:00,10:00,CS304,Computer Networks,Dr. Alan Green,LH-101,Lecture
+CSE-A,Tuesday,Slot-2,10:00,11:00,CS305,Software Engineering,Dr. Clara Oswald,LH-101,Lecture
+CSE-A,Wednesday,Slot-4,14:00,17:00,CS301P,Data Structures Lab,Dr. Robert Fox,CS-Lab-1,Practical
+CSE-A,Thursday,Slot-1,09:00,10:00,CS302,Operating Systems,Prof. Elena Davis,LH-101,Lecture
+CSE-A,Friday,Slot-2,10:00,11:00,CS303,Database Management Systems,Dr. Aisha Khan,LH-101,Lecture
+CSE-B,Monday,Slot-1,09:00,10:00,CS304,Computer Networks,Dr. Alan Green,LH-102,Lecture
+CSE-B,Monday,Slot-2,10:00,11:00,CS305,Software Engineering,Dr. Clara Oswald,LH-102,Lecture
+CSE-B,Tuesday,Slot-1,09:00,10:00,CS301,Data Structures & Algorithms,Dr. Robert Fox,LH-102,Lecture
+CSE-B,Wednesday,Slot-1,09:00,10:00,CS302,Operating Systems,Prof. Elena Davis,LH-102,Lecture
+CSE-B,Thursday,Slot-4,14:00,17:00,CS304P,Computer Networks Lab,Dr. Alan Green,CS-Lab-2,Practical
+CSE-B,Friday,Slot-3,11:15,12:15,CS305,Software Engineering,Dr. Clara Oswald,LH-102,Lecture
+AIML-A,Monday,Slot-1,09:00,10:00,AI201,Foundations of Machine Learning,Dr. Marcus Vance,LH-201,Lecture
+AIML-A,Monday,Slot-2,10:00,11:00,AI202,Linear Algebra for AI,Dr. Sarah Connor,LH-201,Lecture
+AIML-A,Tuesday,Slot-4,14:00,17:00,AI201P,Machine Learning Lab,Dr. Marcus Vance,AI-Lab-1,Practical
+AIML-A,Wednesday,Slot-2,10:00,11:00,AI203,Ethics in Artificial Intelligence,Prof. James Wilson,LH-201,Seminar
+AIML-A,Thursday,Slot-1,09:00,10:00,AI201,Foundations of Machine Learning,Dr. Marcus Vance,LH-201,Lecture
+AIML-A,Friday,Slot-3,11:15,12:15,AI202,Linear Algebra for AI,Dr. Sarah Connor,LH-201,Lecture

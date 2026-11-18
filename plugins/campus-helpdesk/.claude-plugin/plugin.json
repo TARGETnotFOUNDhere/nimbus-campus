@@ -1,0 +1,13 @@
+{
+  "name": "campus-helpdesk",
+  "version": "1.0.0",
+  "description": "Comprehensive student assistance toolchain providing academic timetables, fee reconciliation, and hostel guideline resources.",
+  "author": {
+    "name": "Nimbus Labs",
+    "email": "support@nimbuslabs.edu"
+  },
+  "keywords": ["helpdesk", "timetable", "fees", "hostel", "mcp", "nimbus"],
+  "skills": ["skills/timetable-helper"],
+  "commands": ["commands/timetable.md"],
+  "hooks": "hooks/hooks.json"
+}
